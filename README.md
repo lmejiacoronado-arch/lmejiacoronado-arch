@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hola, mucho gusto soy Luis Fernando Mejia 👋
 
 <!--
-**lmejiacoronado-arch/lmejiacoronado-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**En el momento estoy empezando en el mundo de la programcion, vamos por la segunda semana y aun se me complica algunas cosas pero le estamos metiendo duro a eso.
+De forma autodidacta estoy estuando Ciberseguridad enfocado en pentesting, y una razon por la que estoy en Riwi es saber como se estructura una pagina web para vulnerarla e informar de los fallos y no solo eso, si no saber cual es brecha de la pagina y tomar las medidas para corregir esa vulnerabilidad web (freelance).
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
